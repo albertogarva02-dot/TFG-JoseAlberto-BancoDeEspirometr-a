@@ -4,8 +4,8 @@
 #    Fecha: 07-12-2025
 #    Descripción:
 #        Widget personalizado que hereda de QChartView para integrar gráficos
-#        de QtCharts dentro de la interfaz de usuario PySide6. Sirve como contenedor
-#        visual base para todas las representaciones gráficas (curvas F-V, V-T y tendencias).
+#        de QtCharts dentro de la interfaz de usuario PySide6. Base para todas las 
+#        representaciones gráficas (curvas F-V, V-T y tendencias).
 #______________________________________________________________________________________________________________________
 
 __author__ = "José Alberto García Valiño"
